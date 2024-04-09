@@ -13,33 +13,13 @@ Continuously striving for professional growth, I am expanding my skills to inclu
 
 ### Skills
 
-#### CLOUD COMPUTING PLATFORM
-* Amazon Web Services (AWS)
-
-#### INFRASTRUCTURE AS CODE (IAC)
-* AWS CloudFormation
-* AWS Serverless Application Model (SAM)
-* AWS Lambda Functions
-* Amazon S3
-* AWS API Gateway
-* AWS CloudFront
-* AWS Route 53
-* AWS Certificate Manager
-
-#### CI/CD
-* GitHub Actions
-* AWS CodePipeline
-
-#### PROGRAMMING LANGUAGES
-* Python
-* JavaScript
-
-#### CONTAINERIZATION
-* Docker
-
-#### DATABASE MANAGEMENT
-* AWS DynamoDB
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/wilscooding" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/wilkin-ruiz/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+| CLOUD COMPUTING PLATFORM        | INFRASTRUCTURE AS CODE (IAC) | CI/CD                 | PROGRAMMING LANGUAGES | CONTAINERIZATION | DATABASE MANAGEMENT |
+|---------------------------------|-------------------------------|-----------------------|-----------------------|------------------|---------------------|
+| Amazon Web Services (AWS)       | AWS CloudFormation            | GitHub Actions        | Python                | Docker           | AWS DynamoDB        |
+|                                 | AWS Serverless Application Model (SAM) | AWS CodePipeline | JavaScript            |                  |                     |
+|                                 | AWS Lambda Functions         |                       |                       |                  |                     |
+|                                 | Amazon S3                     |                       |                       |                  |                     |
+|                                 | AWS API Gateway               |                       |                       |                  |                     |
+|                                 | AWS CloudFront                |                       |                       |                  |                     |
+|                                 | AWS Route 53                  |                       |                       |                  |                     |
+|                                 | AWS Certificate Manager       |                       |                       |                  |                     |
