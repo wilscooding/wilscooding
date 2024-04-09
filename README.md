@@ -1,10 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Wilkin Ruiz Valerio
 ===========================================================================================================================================
 
-Software Engineer
+Cloud Engineer
 -----------------
 
-Software Engineer with over a decade of experience in the restaurant industry and three years in corrections, culminating in a versatile skill set for software engineering. Proficient in unlocking solutions with Python, JavaScript, React, SQL, Django, and MongoDB. My leadership skills excel in managing complex and high-pressure situations. Additionally, I am adept in communication, enhancing customer satisfaction through data-driven strategies and feedback-driven operational improvements. Eager to connect with professionals who share similar interests or backgrounds.
+As a Cloud Engineer, I specialize in designing and implementing scalable cloud solutions using cutting-edge technologies. I am proficient in leveraging AWS services such as Lambda Functions, Amazon DynamoDB, and AWS SAM to build robust serverless architectures that meet the dynamic needs of modern applications. My expertise extends to GitHub Actions for CI/CD, Python for backend development, and JavaScript for frontend design.
+
+Continuously striving for professional growth, I am expanding my skills to include infrastructure as code (IaC) practices with Terraform. By mastering Terraform, I aim to streamline cloud resource management and deployment processes, ensuring consistency, reliability, and efficiency across projects.
 
 * 🌍  I'm based in California
 * 🖥️  See my portfolio at [My Portfolio](http://www.wilkinruiz.com)
