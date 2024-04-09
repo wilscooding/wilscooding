@@ -1,8 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Wilkin Ruiz Valerio
-===========================================================================================================================================
+# Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"> I'm Wilkin Ruiz Valerio
 
-Cloud Engineer
------------------
+## Cloud Engineer
 
 As a Cloud Engineer, I specialize in designing and implementing scalable cloud solutions using cutting-edge technologies. I am proficient in leveraging AWS services such as Lambda Functions, Amazon DynamoDB, and AWS SAM to build robust serverless architectures that meet the dynamic needs of modern applications. My expertise extends to GitHub Actions for CI/CD, Python for backend development, and JavaScript for frontend design.
 
@@ -15,9 +13,10 @@ Continuously striving for professional growth, I am expanding my skills to inclu
 
 ### Skills
 
-CLOUD COMPUTING PLATFORM
+#### CLOUD COMPUTING PLATFORM
 * Amazon Web Services (AWS)
-INFRASTRUCTURE AS CODE (IAC)
+
+#### INFRASTRUCTURE AS CODE (IAC)
 * AWS CloudFormation
 * AWS Serverless Application Model (SAM)
 * AWS Lambda Functions
@@ -26,15 +25,19 @@ INFRASTRUCTURE AS CODE (IAC)
 * AWS CloudFront
 * AWS Route 53
 * AWS Certificate Manager
-CI/CD
+
+#### CI/CD
 * GitHub Actions
 * AWS CodePipeline
-PROGRAMMING LANGUAGES
+
+#### PROGRAMMING LANGUAGES
 * Python
 * JavaScript
-CONTAINERIZATION
+
+#### CONTAINERIZATION
 * Docker
-DATABASE MANAGEMENT
+
+#### DATABASE MANAGEMENT
 * AWS DynamoDB
 
 ### Socials
