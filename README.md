@@ -8,7 +8,7 @@ Continuously striving for professional growth, I am expanding my skills to inclu
 
 * 🌍  I'm based in California
 * 🖥️  See my portfolio at [My Portfolio](http://www.wilkinruiz.com)
-* ✉️  You can contact me at [wilkin.ruizvalerio@gmail.com](mailto:wilkin.ruizvalerio@gmail.com)
+* ✉️  You can contact me at [wilkin.aneudyruiz@gmail.com](mailto:wilkin.aneudyruiz@gmail.com)
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
